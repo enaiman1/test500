@@ -1,0 +1,16 @@
+{
+  "name": "test-file",
+  "version": "1.0.0",
+  "description": "test for show",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^2.4.2",
+    "inquirer": "^7.0.0"
+  }
+}
